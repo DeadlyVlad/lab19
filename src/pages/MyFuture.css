@@ -1,0 +1,26 @@
+.future-page {
+    padding: 30px;
+    background-color: #fce4ec;
+    font-family: 'Trebuchet MS', sans-serif;
+  }
+  
+  .future-page h1 {
+    font-size: 30px;
+    color: #ad1457;
+  }
+  
+  .future-page blockquote {
+    margin: 20px 0;
+    font-style: italic;
+    color: #6a1b9a;
+  }
+  
+  .future-page ul {
+    list-style: disc;
+    padding-left: 20px;
+  }
+  
+  .future-page li {
+    margin-bottom: 10px;
+  }
+  

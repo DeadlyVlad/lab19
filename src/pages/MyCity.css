@@ -1,0 +1,21 @@
+.city-page {
+    padding: 25px;
+    background-color: #f1f8e9;
+    font-family: 'Verdana', sans-serif;
+  }
+  
+  .city-page h1 {
+    font-size: 28px;
+    color: #33691e;
+  }
+  
+  .city-page ul {
+    margin-top: 15px;
+    padding-left: 20px;
+  }
+  
+  .city-page li {
+    font-size: 16px;
+    margin-bottom: 8px;
+  }
+  

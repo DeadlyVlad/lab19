@@ -1,0 +1,22 @@
+.home-page {
+    padding: 30px;
+    background-color: #e3f2fd;
+    font-family: 'Segoe UI', sans-serif;
+  }
+  
+  .home-page h1 {
+    font-size: 32px;
+    color: #0d47a1;
+  }
+  
+  .home-page p {
+    font-size: 18px;
+    color: #333;
+  }
+  
+  .home-page img {
+    max-width: 100%;
+    border-radius: 12px;
+    margin-top: 20px;
+  }
+  

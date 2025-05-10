@@ -1,0 +1,33 @@
+.header {
+    background-color: #f2f2f2;
+    padding: 10px 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .nav-list {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .nav-list a {
+    text-decoration: none;
+    color: #333;
+    font-weight: 500;
+    transition: color 0.2s;
+  }
+  
+  .nav-list a:hover {
+    color: #0077cc;
+  }
+  
+  .active {
+    color: red;
+    font-weight: bold;
+    border-bottom: 2px solid red;
+  }
+  
+  
