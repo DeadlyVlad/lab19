@@ -1,5 +1,9 @@
 {
-  "homepage": "https://DeadlyVlad.github.io/lab19",
+  "homepage": "https://deadlyvlad.github.io/lab19",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/deadlyvlad/lab19.git"
+  },
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -17,9 +21,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "build": "react-scripts build"
   },
   "eslintConfig": {
     "extends": [

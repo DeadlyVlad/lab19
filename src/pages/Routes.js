@@ -8,7 +8,7 @@ import HomePage from './HomePage';
 function AppRoutes() {
   return (
     <Routes>
-      <Route path="/" element={<HomePage />} />
+      <Route path="/lab19" element={<HomePage />} />
       <Route path="/about" element={<AboutMe />} />
       <Route path="/city" element={<MyCity />} />
       <Route path="/future" element={<MyFuture />} />
